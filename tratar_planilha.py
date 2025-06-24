@@ -5,7 +5,7 @@ from openpyxl.worksheet.cell_range import CellRange
 from openpyxl.utils import get_column_letter
 
 # Caminho para sua planilha original
-input_filename = 'Pasta2 (version 1).xlsx'
+input_filename = 'Pasta2 (version 1).xlsx' #altere para o nome da sua planilha
 output_filename = 'planilha_tratada_com_formato_e_links_originais.xlsx' # Novo nome para o arquivo de saída
 
 # --- Passo 1: Carregar a planilha e identificar linhas vazias ---
