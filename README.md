@@ -46,5 +46,5 @@ python3 tratar_planilha.py
 - Certifique-se de que a planilha não esteja aberta no Excel ao executar o script, para evitar erro de acesso.
 
 ## 👩‍💻 Autores
-
-Késia Silva e Keitiely Silva
+- @kesiasilv
+- @keitiely
